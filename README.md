@@ -4,4 +4,4 @@ Conceitos do flutter aplicados em um projeto de aplicativo que detalha informaç
 ## Dupla: Mariana Santiago Matos & Nickolas Garcia Franco Avelino Lopes
 
 ## Tópicos
-- [Mapa de Navegação & Aplicações do Flutter](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/Mapa-de-Navega%C3%A7%C3%A3o)
+- [Mapa de Navegação & Aplicações do Flutter](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/Mapa-de-Navega%C3%A7%C3%A3o-&-Aplica%C3%A7%C3%B5es-do-Flutter)
