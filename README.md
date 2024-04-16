@@ -3,7 +3,7 @@
 <img src="imgs/jfg.png">
 
 ## Dupla: Mariana Santiago Matos & Nickolas Garcia Franco Avelino Lopes
-<p>ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais. 3ºA de 2024</p>
+<p>ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais | 3ºA de 2024</p>
 
 # Wikis
 ## Descrição do Projeto
