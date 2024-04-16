@@ -7,7 +7,7 @@
 
 # Wikis
 ## Descrição do Projeto
-- [Descrição e Objetivo](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/Descri%C3%A7%C3%A3o,-Objetivo-e-Funcionalidade)
+- [Descrição e Objetivo](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/Descri%C3%A7%C3%A3o-e-Objetivo)
 ## Widgets 
 - [Aplicação e Funcionalidades do Flutter](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/Aplica%C3%A7%C3%A3o-e-Funcionalidades-do-Flutter)
 ## Protótipo
