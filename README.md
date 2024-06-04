@@ -13,7 +13,7 @@
 ## Protótipo
 - [Mapa de Navegação & Implementações do Flutter](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/Mapa-de-Navega%C3%A7%C3%A3o-&-Aplica%C3%A7%C3%B5es-do-Flutter)
 ## Aplicativo
-- [Tela de menu](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/Menu)
+- [Tela de menu](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/P%C3%A1gina-Menu)
 - [Tela da gameplay](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/P%C3%A1gina-da-GamePlay)
 - [Tela sobre a história](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/P%C3%A1gina-da-Hist%C3%B3ria)
 - [Tela dos personagens](https://github.com/MariSantiago0/JetForceGeminiApp/wiki/P%C3%A1gina-dos-Personagens)
