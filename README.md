@@ -2,7 +2,8 @@
 <p>Conceitos do flutter aplicados em um projeto de aplicativo que detalha informações do jogo Jet Force Gemini de 1999.</p>
 <img src="imgs/jfg.png">
 
-## Feito por: Nickolas Garcia Franco Avelino Lopes
+## Feito por: Nickolas Garcia Franco Avelino Lopes e Carlos Alarcon
+
 <p>ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais | 3ºA de 2024</p>
 
 # Wikis
